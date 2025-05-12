@@ -33,3 +33,22 @@
 ![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 
+<!-- 코드뷰 -->
+```React
+function App(){
+}
+
+export default App;
+```
+
+<!-- 인용 : > 기호를 사용하여 인용문 작성 -->
+> 인용문
+
+<!-- 수평선 : ---, ***, ___ 등을 사용하여 수평선 생성 -->
+---
+
+<!-- 테이블 : 파이프(|)를 사용하여 테이블 생성 -->
+| title1 | title2 |
+| --- | --- |
+|content1 | content2 |
+
